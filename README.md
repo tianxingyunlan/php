@@ -1,2 +1,2 @@
-# php
-php和thinkphp使用的一些知识点
+# thinkphp
+使用thinkphp5.0调用支付宝接口实现手机网站支付宝支付功能
